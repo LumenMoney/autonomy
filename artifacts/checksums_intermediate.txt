@@ -1,0 +1,1 @@
+29dcbbbaded5a1f84b959d929b40e189bcd4df093b96fab07d15005bfa63eadc  ./target/wasm32-unknown-unknown/release/challenge.wasm
